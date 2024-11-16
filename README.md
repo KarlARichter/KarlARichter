@@ -1,1 +1,1 @@
-![Karl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlArichter&show_icons=true&theme=radical)
+src="https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views"
