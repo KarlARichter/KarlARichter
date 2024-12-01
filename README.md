@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Karl</h1>
-<h3 align="center">Second Year Computer Science Student @ Wilfrid Laurier University</h3>
+<h1 align="left">Hi, I'm Karl</h1>
+<h3 align="left">Second Year Computer Science Student @ Wilfrid Laurier University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karlarichter&label=Profile%20views&color=ff0000&style=flat" alt="karlarichter" /> </p>
 
