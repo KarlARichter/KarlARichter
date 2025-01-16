@@ -13,6 +13,6 @@
 <h3 align="left">My Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karlarichter&show_icons=true&theme=radical&locale=en&layout=compact" alt="karlarichter" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karlarichter&theme=dark" alt="karlarichter" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karlarichter&theme=dark" alt="karlarichter" /></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karlarichter&label=Profile%20views&color=ff0000&style=flat" alt="karlarichter" /> </p> -->
