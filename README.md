@@ -16,4 +16,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karlarichter&theme=dark" alt="karlarichter" /></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karlarichter&label=Profile%20views&color=ff0000&style=flat" alt="karlarichter" /> </p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karlarichter&label=Profile%20views&color=ff0000&style=flat" alt="karlarichter" /> </p>
